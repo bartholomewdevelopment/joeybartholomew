@@ -1,0 +1,66 @@
+/* General Styles */
+body {
+  margin: 0;
+  padding: 0;
+  font-family: Arial, sans-serif;
+}
+
+/* Container */
+.container {
+  max-width: 800px;
+  margin: auto;
+  padding: 20px;
+}
+
+.about-me {
+  max-width: 100%;
+  padding: 20px 50px 20px 100px;
+  background-color: #f4f4f4;
+  border-radius: 8px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  margin-bottom: 40px;
+}
+
+/* Experience Section */
+.experience-section {
+  background-color: #f4f4f4;
+  padding: 20px;
+  border-bottom: 1px solid #ccc;
+}
+
+/* Individual Experience Entries */
+.experience-entry {
+  margin-bottom: 40px;
+  padding: 20px;
+  border-radius: 8px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  background-color: #fff;
+}
+
+/* Headings in Experience Entry */
+.experience-entry h2 {
+  font-size: 24px;
+  margin-bottom: 10px;
+  color: #333;
+}
+
+/* Paragraphs in Experience Entry */
+.experience-entry p {
+  margin-bottom: 10px;
+}
+
+/* Last Paragraph in Experience Entry */
+.experience-entry p:last-child {
+  margin-bottom: 0;
+}
+
+/* Skill Tags */
+.skills {
+  background-color: #333;
+  color: white;
+  display: inline-block;
+  padding: 5px 10px;
+  margin-right: 5px;
+  border-radius: 20px;
+  font-size: 14px;
+}

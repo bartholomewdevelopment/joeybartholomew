@@ -1,0 +1,24 @@
+.about-me {
+    background-color: #f4f4f4; /* light gray */
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  }
+  
+  .career-section {
+    margin-bottom: 20px;
+  }
+  
+  h2 {
+    color: #007BFF; /* light blue */
+  }
+  
+  h3 {
+    margin-top: 20px;
+    color: #333; /* dark gray */
+  }
+  
+  p, ul {
+    color: #666; /* gray */
+  }
+  
